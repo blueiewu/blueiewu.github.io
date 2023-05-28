@@ -23,14 +23,14 @@ header {
 
 .logo{
     text-decoration: none;
-    color: #3a6cf4;
+    color: #d0ad00;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
 }
 
 .navigation a{
-    color: #3a6cf4;
+    color: #DAA520;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
@@ -38,7 +38,7 @@ header {
 }
 
 .navigation a:hover{
-    color: #601cfc;
+    color: #926b09;
 }
 
 section {
@@ -50,14 +50,14 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/dark_mode.jpg) no-repeat;
+    background: url(images/15365516_5540822.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
 .main h2 {
-    color: #fff;
+    color: #af8009;
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -65,7 +65,7 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4e9eff;
+    color: #af8009;
     font-size: 3em;
     font-weight: 600;
 }
